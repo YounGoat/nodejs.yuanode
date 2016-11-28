@@ -1,6 +1,6 @@
 {
     "name": "yuanode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Spoonful sugar for Node.js",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/YounGoat/nodejs.yuanode/issues"
     },
-    "homepage": "https://github.com/YounGoat/nodejs.yuanode#readme"
+    "homepage": "https://github.com/YounGoat/nodejs.yuanode#readme",
+    "dependencies": {
+        "yuan": "^0.2.3"
+    }
 }
